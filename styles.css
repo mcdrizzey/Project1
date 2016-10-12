@@ -128,11 +128,15 @@ ul.skills {
   background: #666666;
 }
 
-.card .additional-image {
+ul.corona {
+  padding: 5px;
+  text-align: center;
+  list-style: none;
+}
+
+.corona li img {
   border-radius: 50%;
-  display: inline-block;
-  padding: 5px 10px;
-  margin: 2px;
+  border: 3px solid #99004f;
 }
 
 footer {
